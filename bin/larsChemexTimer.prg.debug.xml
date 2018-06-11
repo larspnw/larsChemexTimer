@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="/home/lars/eclipse-workspace/larsChemexTimer/./source/larsChemexTimerApp.mc" lineNum="9" pc="268435456" symbol="initialize"/>
+<entry filename="/home/lars/eclipse-workspace/larsChemexTimer/./source/larsChemexTimerApp.mc" lineNum="10" pc="268435460" symbol="initialize"/>
+<entry filename="/home/lars/eclipse-workspace/larsChemexTimer/./source/larsChemexTimerApp.mc" lineNum="14" pc="268435483" symbol="onStart"/>
+<entry filename="/home/lars/eclipse-workspace/larsChemexTimer/./source/larsChemexTimerApp.mc" lineNum="18" pc="268435488" symbol="onStop"/>
+<entry filename="/home/lars/eclipse-workspace/larsChemexTimer/./source/larsChemexTimerApp.mc" lineNum="22" pc="268435493" symbol="getInitialView"/>
+<entry filename="/home/lars/eclipse-workspace/larsChemexTimer/./source/larsChemexTimerApp.mc" lineNum="23" pc="268435497" symbol="getInitialView"/>
+<entry filename="/home/lars/eclipse-workspace/larsChemexTimer/./source/larsChemexTimerApp.mc" lineNum="24" pc="268435521" symbol="getInitialView"/>
+<entry filename="/home/lars/eclipse-workspace/larsChemexTimer/./source/larsChemexTimerView.mc" lineNum="41" pc="268435571" symbol="initialize"/>
+<entry filename="/home/lars/eclipse-workspace/larsChemexTimer/./source/larsChemexTimerView.mc" lineNum="42" pc="268435575" symbol="initialize"/>
+<entry filename="/home/lars/eclipse-workspace/larsChemexTimer/./source/larsChemexTimerView.mc" lineNum="45" pc="268435598" symbol="callback1"/>
+<entry filename="/home/lars/eclipse-workspace/larsChemexTimer/./source/larsChemexTimerView.mc" lineNum="46" pc="268435602" symbol="callback1"/>
+<entry filename="/home/lars/eclipse-workspace/larsChemexTimer/./source/larsChemexTimerView.mc" lineNum="49" pc="268435621" symbol="callback1"/>
+<entry filename="/home/lars/eclipse-workspace/larsChemexTimer/./source/larsChemexTimerView.mc" lineNum="50" pc="268435661" symbol="callback1"/>
+<entry filename="/home/lars/eclipse-workspace/larsChemexTimer/./source/larsChemexTimerView.mc" lineNum="51" pc="268435677" symbol="callback1"/>
+<entry filename="/home/lars/eclipse-workspace/larsChemexTimer/./source/larsChemexTimerView.mc" lineNum="52" pc="268435693" symbol="callback1"/>
+<entry filename="/home/lars/eclipse-workspace/larsChemexTimer/./source/larsChemexTimerView.mc" lineNum="53" pc="268435720" symbol="callback1"/>
+<entry filename="/home/lars/eclipse-workspace/larsChemexTimer/./source/larsChemexTimerView.mc" lineNum="54" pc="268435760" symbol="callback1"/>
+<entry filename="/home/lars/eclipse-workspace/larsChemexTimer/./source/larsChemexTimerView.mc" lineNum="55" pc="268435776" symbol="callback1"/>
+<entry filename="/home/lars/eclipse-workspace/larsChemexTimer/./source/larsChemexTimerView.mc" lineNum="56" pc="268435792" symbol="callback1"/>
+<entry filename="/home/lars/eclipse-workspace/larsChemexTimer/./source/larsChemexTimerView.mc" lineNum="57" pc="268435819" symbol="callback1"/>
+<entry filename="/home/lars/eclipse-workspace/larsChemexTimer/./source/larsChemexTimerView.mc" lineNum="58" pc="268435859" symbol="callback1"/>
+<entry filename="/home/lars/eclipse-workspace/larsChemexTimer/./source/larsChemexTimerView.mc" lineNum="59" pc="268435875" symbol="callback1"/>
+<entry filename="/home/lars/eclipse-workspace/larsChemexTimer/./source/larsChemexTimerView.mc" lineNum="60" pc="268435888" symbol="callback1"/>
+<entry filename="/home/lars/eclipse-workspace/larsChemexTimer/./source/larsChemexTimerView.mc" lineNum="61" pc="268435912" symbol="callback1"/>
+<entry filename="/home/lars/eclipse-workspace/larsChemexTimer/./source/larsChemexTimerView.mc" lineNum="64" pc="268435933" symbol="callback1"/>
+<entry filename="/home/lars/eclipse-workspace/larsChemexTimer/./source/larsChemexTimerView.mc" lineNum="67" pc="268435950" symbol="startTimer"/>
+<entry filename="/home/lars/eclipse-workspace/larsChemexTimer/./source/larsChemexTimerView.mc" lineNum="68" pc="268435954" symbol="startTimer"/>
+<entry filename="/home/lars/eclipse-workspace/larsChemexTimer/./source/larsChemexTimerView.mc" lineNum="69" pc="268435988" symbol="startTimer"/>
+<entry filename="/home/lars/eclipse-workspace/larsChemexTimer/./source/larsChemexTimerView.mc" lineNum="71" pc="268436029" symbol="startTimer"/>
+<entry filename="/home/lars/eclipse-workspace/larsChemexTimer/./source/larsChemexTimerView.mc" lineNum="73" pc="268436045" symbol="startTimer"/>
+<entry filename="/home/lars/eclipse-workspace/larsChemexTimer/./source/larsChemexTimerView.mc" lineNum="76" pc="268436070" symbol="onLayout"/>
+<entry filename="/home/lars/eclipse-workspace/larsChemexTimer/./source/larsChemexTimerView.mc" lineNum="79" pc="268436075" symbol="onUpdate"/>
+<entry filename="/home/lars/eclipse-workspace/larsChemexTimer/./source/larsChemexTimerView.mc" lineNum="81" pc="268436079" symbol="onUpdate"/>
+<entry filename="/home/lars/eclipse-workspace/larsChemexTimer/./source/larsChemexTimerView.mc" lineNum="84" pc="268436079" symbol="onUpdate"/>
+<entry filename="/home/lars/eclipse-workspace/larsChemexTimer/./source/larsChemexTimerView.mc" lineNum="86" pc="268436099" symbol="onUpdate"/>
+<entry filename="/home/lars/eclipse-workspace/larsChemexTimer/./source/larsChemexTimerView.mc" lineNum="87" pc="268436119" symbol="onUpdate"/>
+<entry filename="/home/lars/eclipse-workspace/larsChemexTimer/./source/larsChemexTimerView.mc" lineNum="89" pc="268436135" symbol="onUpdate"/>
+<entry filename="/home/lars/eclipse-workspace/larsChemexTimer/./source/larsChemexTimerView.mc" lineNum="91" pc="268436155" symbol="onUpdate"/>
+<entry filename="/home/lars/eclipse-workspace/larsChemexTimer/./source/larsChemexTimerView.mc" lineNum="92" pc="268436175" symbol="onUpdate"/>
+<entry filename="/home/lars/eclipse-workspace/larsChemexTimer/./source/larsChemexTimerView.mc" lineNum="94" pc="268436191" symbol="onUpdate"/>
+<entry filename="/home/lars/eclipse-workspace/larsChemexTimer/./source/larsChemexTimerView.mc" lineNum="96" pc="268436211" symbol="onUpdate"/>
+<entry filename="/home/lars/eclipse-workspace/larsChemexTimer/./source/larsChemexTimerView.mc" lineNum="97" pc="268436231" symbol="onUpdate"/>
+<entry filename="/home/lars/eclipse-workspace/larsChemexTimer/./source/larsChemexTimerView.mc" lineNum="99" pc="268436247" symbol="onUpdate"/>
+<entry filename="/home/lars/eclipse-workspace/larsChemexTimer/./source/larsChemexTimerView.mc" lineNum="101" pc="268436267" symbol="onUpdate"/>
+<entry filename="/home/lars/eclipse-workspace/larsChemexTimer/./source/larsChemexTimerView.mc" lineNum="102" pc="268436287" symbol="onUpdate"/>
+<entry filename="/home/lars/eclipse-workspace/larsChemexTimer/./source/larsChemexTimerView.mc" lineNum="104" pc="268436303" symbol="onUpdate"/>
+<entry filename="/home/lars/eclipse-workspace/larsChemexTimer/./source/larsChemexTimerView.mc" lineNum="106" pc="268436316" symbol="onUpdate"/>
+<entry filename="/home/lars/eclipse-workspace/larsChemexTimer/./source/larsChemexTimerView.mc" lineNum="107" pc="268436336" symbol="onUpdate"/>
+<entry filename="/home/lars/eclipse-workspace/larsChemexTimer/./source/larsChemexTimerView.mc" lineNum="112" pc="268436352" symbol="onUpdate"/>
+<entry filename="/home/lars/eclipse-workspace/larsChemexTimer/./source/larsChemexTimerView.mc" lineNum="113" pc="268436388" symbol="onUpdate"/>
+<entry filename="/home/lars/eclipse-workspace/larsChemexTimer/./source/larsChemexTimerView.mc" lineNum="114" pc="268436400" symbol="onUpdate"/>
+<entry filename="/home/lars/eclipse-workspace/larsChemexTimer/./source/larsChemexTimerView.mc" lineNum="115" pc="268436432" symbol="onUpdate"/>
+<entry filename="/home/lars/eclipse-workspace/larsChemexTimer/./source/larsChemexTimerView.mc" lineNum="116" pc="268436448" symbol="onUpdate"/>
+<entry filename="/home/lars/eclipse-workspace/larsChemexTimer/./source/larsChemexTimerView.mc" lineNum="117" pc="268436514" symbol="onUpdate"/>
+<entry filename="/home/lars/eclipse-workspace/larsChemexTimer/./source/larsChemexTimerView.mc" lineNum="118" pc="268436541" symbol="onUpdate"/>
+<entry filename="/home/lars/eclipse-workspace/larsChemexTimer/./source/larsChemexTimerView.mc" lineNum="123" pc="268436602" symbol="formatTime"/>
+<entry filename="/home/lars/eclipse-workspace/larsChemexTimer/./source/larsChemexTimerView.mc" lineNum="125" pc="268436606" symbol="formatTime"/>
+<entry filename="/home/lars/eclipse-workspace/larsChemexTimer/./source/larsChemexTimerView.mc" lineNum="126" pc="268436617" symbol="formatTime"/>
+<entry filename="/home/lars/eclipse-workspace/larsChemexTimer/./source/larsChemexTimerView.mc" lineNum="129" pc="268436623" symbol="formatTime"/>
+<entry filename="/home/lars/eclipse-workspace/larsChemexTimer/./source/larsChemexTimerView.mc" lineNum="130" pc="268436633" symbol="formatTime"/>
+<entry filename="/home/lars/eclipse-workspace/larsChemexTimer/./source/larsChemexTimerView.mc" lineNum="132" pc="268436643" symbol="formatTime"/>
+<entry filename="/home/lars/eclipse-workspace/larsChemexTimer/./source/larsChemexTimerView.mc" lineNum="133" pc="268436654" symbol="formatTime"/>
+<entry filename="/home/lars/eclipse-workspace/larsChemexTimer/./source/larsChemexTimerView.mc" lineNum="135" pc="268436667" symbol="formatTime"/>
+<entry filename="/home/lars/eclipse-workspace/larsChemexTimer/./source/larsChemexTimerDelegate.mc" lineNum="11" pc="268436681" symbol="initialize"/>
+<entry filename="/home/lars/eclipse-workspace/larsChemexTimer/./source/larsChemexTimerDelegate.mc" lineNum="12" pc="268436685" symbol="initialize"/>
+<entry filename="/home/lars/eclipse-workspace/larsChemexTimer/./source/larsChemexTimerDelegate.mc" lineNum="13" pc="268436707" symbol="initialize"/>
+<entry filename="/home/lars/eclipse-workspace/larsChemexTimer/./source/larsChemexTimerDelegate.mc" lineNum="16" pc="268436718" symbol="onMenu"/>
+<entry filename="/home/lars/eclipse-workspace/larsChemexTimer/./source/larsChemexTimerDelegate.mc" lineNum="17" pc="268436722" symbol="onMenu"/>
+<entry filename="/home/lars/eclipse-workspace/larsChemexTimer/./source/larsChemexTimerDelegate.mc" lineNum="18" pc="268436740" symbol="onMenu"/>
+<entry filename="/home/lars/eclipse-workspace/larsChemexTimer/./source/larsChemexTimerDelegate.mc" lineNum="21" pc="268436744" symbol="onSelect"/>
+<entry filename="/home/lars/eclipse-workspace/larsChemexTimer/./source/larsChemexTimerDelegate.mc" lineNum="22" pc="268436748" symbol="onSelect"/>
+<entry filename="/home/lars/eclipse-workspace/larsChemexTimer/./source/larsChemexTimerDelegate.mc" lineNum="23" pc="268436766" symbol="onSelect"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry field="true" id="10" symbol="dataColor"/>
+<entry field="true" id="11" symbol="vibrateData"/>
+<entry id="8389619" method="true" symbol="onSelect"/>
+<entry field="true" id="22" symbol="limitPour"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry field="true" id="12" symbol="POUR100"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry field="true" id="21" symbol="limitPour350"/>
+<entry id="23" object="true" symbol="larsChemexTimerView"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="8388649" module="true" object="true" symbol="Test"/>
+<entry id="24" object="true" symbol="testLarsChemexTimer"/>
+<entry id="8388636" module="true" symbol="Attention"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="28" symbol="AppName"/>
+<entry id="31" method="true" symbol="formatTime"/>
+<entry id="8389080" method="true" symbol="onMenu"/>
+<entry id="9" object="true" symbol="larsChemexTimerApp"/>
+<entry field="true" id="27" symbol="LauncherIcon"/>
+<entry id="8388646" module="true" object="true" symbol="Timer"/>
+<entry field="true" id="8388696" symbol="timer1"/>
+<entry field="true" id="14" symbol="POUR350"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="30" method="true" symbol="startTimer"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry field="true" id="20" symbol="limitPour250"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="8388700" method="true" symbol="callback1"/>
+<entry field="true" id="18" symbol="sTimerState"/>
+<entry field="true" id="17" symbol="mTimerState"/>
+<entry field="true" id="16" symbol="DRINK"/>
+<entry field="true" id="29" symbol="mParentView"/>
+<entry id="26" module="true" symbol="Layouts"/>
+<entry field="true" id="15" symbol="STEEP"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry field="true" id="13" symbol="POUR250"/>
+<entry id="8388656" object="true" symbol="InputDelegate"/>
+<entry field="true" id="8389850" symbol="count"/>
+<entry id="25" module="true" symbol="Menus"/>
+<entry field="true" id="19" symbol="limitPour100"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435488" name="state" stackId="1" startPc="268435483"/>
+<entry endPc="268435493" name="state" stackId="1" startPc="268435488"/>
+<entry endPc="268435570" name="mView" stackId="1" startPc="268435497"/>
+<entry endPc="268436075" name="dc" stackId="1" startPc="268436070"/>
+<entry endPc="268436601" name="string" stackId="2" startPc="268436079"/>
+<entry endPc="268436602" name="dc" stackId="1" startPc="268436075"/>
+<entry endPc="268436679" name="iMin" stackId="2" startPc="268436606"/>
+<entry endPc="268436679" name="iSec" stackId="3" startPc="268436606"/>
+<entry endPc="268436680" name="iTime" stackId="1" startPc="268436602"/>
+<entry endPc="268436718" name="view" stackId="1" startPc="268436681"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry accessMode="public" name="initialize" parent="larsChemexTimerApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="larsChemexTimerApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="larsChemexTimerApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="larsChemexTimerApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="larsChemexTimerView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="callback1" parent="larsChemexTimerView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="startTimer" parent="larsChemexTimerView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="larsChemexTimerView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="larsChemexTimerView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="formatTime" parent="larsChemexTimerView">
+<param id="iTime"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="InputDelegate">
+<param id="view"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onMenu" parent="InputDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onSelect" parent="InputDelegate">
+<documentation/>
+</functionEntry>
+</functions>
+<dataEntryOffsetMappings>
+<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="310" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="389" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="428" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="459" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="490" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="521" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="552" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="591" parentId="globals" symbolId="InputDelegate" type="class"/>
+<dataEntry offset="662" parentId="globals" symbolId="larsChemexTimerApp" type="class"/>
+<dataEntry offset="733" parentId="globals" symbolId="testLarsChemexTimer" type="class"/>
+<dataEntry offset="780" parentId="globals" symbolId="larsChemexTimerView" type="class"/>
+</dataEntryOffsetMappings>
+</debugInfo>
